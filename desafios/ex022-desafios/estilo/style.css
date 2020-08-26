@@ -71,8 +71,9 @@ nav {
 }
 
 nav > a {
+    font-size: 0.9em;
     color: var(--cor1);
-    padding: 11px 10px 9px 11px;
+    padding: 8px 4px 8px 4px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: 0.5s;
@@ -85,7 +86,7 @@ nav > a:hover {
 }
 
 main {
-    min-width: 300px;
+    min-width: 250px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
@@ -101,6 +102,7 @@ main  h1 {
     font-weight: normal;
     font-family: var(--font-android);
     font-size: 1.8em;
+    text-align: center;
 }
 main h2 {
     font-family: var(--font-android);
