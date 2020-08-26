@@ -1,3 +1,3 @@
 # html-css
  
-estou apredendo html5 e css3
+estou apredendo HTML5 e CSS3
