@@ -13,7 +13,7 @@ Durante as **aulas de HTML5 e CSS3**, aprendemos como criar páginas web simples
 * [Execute os exercícios aqui](https://gustavoguanabara.github.io/html-css/exercicios/)
 * [Resolva os desafios de HTML aqui](https://github.com/gustavoguanabara/html-css/tree/master/desafios)
 
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AAndroid_robot_2014.svg&psig=AOvVaw2NXAYgrBwwI34YU3sUzwlk&ust=1601573430373000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjvt4y0kewCFQAAAAAdAAAAABAD" width="200">
+<img align="right" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.techtudo.com.br%2Flistas%2Fnoticia%2F2015%2F09%2Fcinco-bons-motivos-para-amar-o-seu-android.html&psig=AOvVaw35IVfDtdgKJr8gfZzwXp50&ust=1601573418797000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDl6-q0kewCFQAAAAAdAAAAABAD" width="200">
 
 ## Curso de JavaScript
 
