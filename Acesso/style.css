@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+body {
+    background-position: center;
+    color: white;
+    background-color: black;
+}
+h1 {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.2em;
+}
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+ul {
+    padding: 10px;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+a:hover {
+    color:rgb(255, 0, 0) ;
+    text-decoration: underline;
+}
+
+abbr {
+    text-decoration: none;
+}
+
+#imagem1{
+    max-width: 300px;
+    padding: 20px;
+}
+#imagem2 {
+    max-width: 500px;
+    padding: 20px;
+}
+
+footer {
+    margin: 0px;
+    padding-top: 83px;
+}
